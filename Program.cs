@@ -82,12 +82,7 @@ namespace IgniteSim
             rand = Rand;
             hitStatus = Roll(HitChance);
             critStatus = Roll(CritChance);
-            damage = ((678 + SpellPower) * 1.3915d);
-            if(critStatus == true)
-            {
-                damage = damage * 1.5d;
-            }
-            //damage = GetFireballDamage(SpellPower);
+            damage = GetFireballDamage(SpellPower);
             tick = Tick;
         }
         public bool hitStatus {get; private set;}
