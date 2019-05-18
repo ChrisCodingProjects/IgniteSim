@@ -1,0 +1,11 @@
+c:\Users\Skade\Desktop\VSCode Projects\IgniteSim\bin\Debug\netcoreapp2.2\IgniteSim.deps.json
+c:\Users\Skade\Desktop\VSCode Projects\IgniteSim\bin\Debug\netcoreapp2.2\IgniteSim.runtimeconfig.json
+c:\Users\Skade\Desktop\VSCode Projects\IgniteSim\bin\Debug\netcoreapp2.2\IgniteSim.runtimeconfig.dev.json
+c:\Users\Skade\Desktop\VSCode Projects\IgniteSim\bin\Debug\netcoreapp2.2\IgniteSim.dll
+c:\Users\Skade\Desktop\VSCode Projects\IgniteSim\bin\Debug\netcoreapp2.2\IgniteSim.pdb
+c:\Users\Skade\Desktop\VSCode Projects\IgniteSim\obj\Debug\netcoreapp2.2\IgniteSim.csprojAssemblyReference.cache
+c:\Users\Skade\Desktop\VSCode Projects\IgniteSim\obj\Debug\netcoreapp2.2\IgniteSim.csproj.CoreCompileInputs.cache
+c:\Users\Skade\Desktop\VSCode Projects\IgniteSim\obj\Debug\netcoreapp2.2\IgniteSim.AssemblyInfoInputs.cache
+c:\Users\Skade\Desktop\VSCode Projects\IgniteSim\obj\Debug\netcoreapp2.2\IgniteSim.AssemblyInfo.cs
+c:\Users\Skade\Desktop\VSCode Projects\IgniteSim\obj\Debug\netcoreapp2.2\IgniteSim.dll
+c:\Users\Skade\Desktop\VSCode Projects\IgniteSim\obj\Debug\netcoreapp2.2\IgniteSim.pdb
